@@ -267,11 +267,7 @@ Thanks for the correction — the "signed sums" argument was not valid.
 
 - That the game is equivalent to freely assigning $\pm$ signs — that is **false**, not every sign assignment is realizable.
 
----
 
-> **Mariano:** Translate the problem statement to English
-
-**Claude:**
 
 Given several integers, the allowed operation is to replace any two of them with their non-negative difference. The operation is repeated until only one number remains.
 
