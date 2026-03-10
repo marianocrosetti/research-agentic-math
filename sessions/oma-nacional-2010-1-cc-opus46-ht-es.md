@@ -263,11 +263,7 @@ Gracias por la corrección — el argumento de "sumas con signos" no era válido
 
 - Que el juego equivale a asignar signos $\pm$ libremente — eso es **falso**, no toda asignación es realizable.
 
----
 
-> **Mariano:** Traducir el enunciado al inglés
-
-**Claude:**
 
 Given several integers, the allowed operation is to replace any two of them with their non-negative difference. The operation is repeated until only one number remains.
 
